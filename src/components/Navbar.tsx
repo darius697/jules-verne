@@ -22,7 +22,7 @@ const Navbar = () => {
           <div className="flex items-center space-x-3">
             <div className="flex items-center space-x-2">
               <img
-                src="public/julesvernelogo_bun.png"
+                src="jules-verne-web-garden-main/public/julesvernelogo_bun.png"
                 alt=""
                 className="w-26 h-20"
               />
