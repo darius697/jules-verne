@@ -10,11 +10,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8 mb-8">
           <div className="md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
-              <img
-                src="public/julesvernelogo_bun.png"
-                alt=""
-                className="w-22 h-16"
-              />
+              <img src="/julesvernelogo_bun.png" alt="" className="w-22 h-16" />
             </div>
             <p className="text-gray-300 mb-4 max-w-md">
               {t("footerDescription")}
